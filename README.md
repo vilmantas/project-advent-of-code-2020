@@ -1,1 +1,5 @@
-# project-advent-of-code-2020
+# Git Project for Advent Of Code 2020
+
+Solutions are made using Python.
+
+Thanks for visiting.
